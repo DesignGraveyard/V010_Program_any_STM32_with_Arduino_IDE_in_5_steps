@@ -21,5 +21,5 @@ https://www.st.com/content/st_com/en/stm32cubeprogrammer.html
 Putty for Serial monitoring: https://putty.software/  
 
 # Files:
-Arduino code of all examples used int he video are included.  
+Arduino code of all examples used in the video are included.  
 

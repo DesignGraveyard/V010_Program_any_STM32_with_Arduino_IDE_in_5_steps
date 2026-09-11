@@ -7,8 +7,7 @@ This is a step-by-step guide for programming bare metal STM32 chips using the Ar
 
 # Check out the video:
 
-[![Watch the video](https://img.youtube.com/vi/XR9e3-A5Q-0/0.jpg)](https://youtu.be/XR9e3-A5Q-0)
-
+[![Watch the video](https://img.youtube.com/vi/yhXWqsyGy3s/0.jpg)](https://youtu.be/yhXWqsyGy3s)
 
 # Links:  
 
